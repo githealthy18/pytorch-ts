@@ -15,7 +15,7 @@ setup(
     zip_safe=True,
     python_requires=">=3.6",
     install_requires=[
-        "torch>",
+        "torch",
         "gluonts",
         "holidays",
         "numpy",
